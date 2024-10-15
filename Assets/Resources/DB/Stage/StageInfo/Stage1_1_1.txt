@@ -1,0 +1,4 @@
+Time	99
+Enemy	6
+Wave	3
+Difficult Easy

@@ -1,0 +1,5 @@
+Name	FileName	Type	Rarity	BuyPrice	SellPrice
+기본무기	W1	0	N	100	50
+기본갑옷	A1	1	N	100	50
+기본장갑	SA1	2	N	100	50
+기본반지	AC1	3	N	100	50

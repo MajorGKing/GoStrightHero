@@ -1,0 +1,7 @@
+Time	99
+Enemy	6
+Wave	3
+Start
+Wave1	1	1  
+Wave2	2	1	1 
+Wave3	3	1	1	1

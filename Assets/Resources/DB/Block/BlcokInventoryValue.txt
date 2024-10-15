@@ -1,0 +1,6 @@
+Name	FileName	Slot	Rarity	BuyPrice	SellPrice
+공격아이콘1	A1	1	N	100	50
+공격아이콘2	A2	1	N	-100	75
+공격성공아이콘1	B1	2	N	100	50
+회복아이콘1	C1	3	N	100	50
+회피아이콘1	D1	4	N	100	50

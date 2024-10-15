@@ -1,0 +1,3 @@
+Name	FileName	Type	Rarity	BuyPrice	SellPrice
+기본포션1	HP1	1	N	10	5
+기본포션2	HP2	1	N	20	10

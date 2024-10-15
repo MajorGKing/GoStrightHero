@@ -1,0 +1,3 @@
+Name	FileName	Info
+기본포션1	HP1	1개당 HP 50회복
+기본포션2	HP2	1개당 HP 100회복

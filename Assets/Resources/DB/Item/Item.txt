@@ -1,0 +1,3 @@
+Name	FileName	Type	ValueType	Value
+기본포션1	HP1	1	1	50
+기본포션2	HP2	1	1	100
